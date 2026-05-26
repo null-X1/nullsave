@@ -1,6 +1,5 @@
 {
-  "versionCode": 4,
-  "versionName": "4.1",
-  "updateUrl": "https://www.mediafire.com/file/8h64t7c30ze5zkl/Null+Save+V2.2.apk/file",
-  "changeLog": "• إزالة المستطيل وتنعيم تأثيرات البار السفلي.\n• تحسين أداء الواجهات الزجاجية المتدفقة (Fluid Glass).\n• إصلاحات عامة لضمان استقرار التحميل وسرعته."
+  "versionName": "4.2",
+  "changeLog": "• مشغل صوت في الخلفية مع إشعار تحكم\n• ملفات بتتحفظ في NullSave/videos · sounds · images\n• إصلاح مشاركة TikTok (bottom sheet بدون مغادرة التطبيق)\n• إصلاح أيقونات الـ Dark Mode في شريط التنقل\n• إصلاح بطاقات الإعدادات\n• تحقق تلقائي من صحة الرابط قبل التحميل",
+  "updateUrl": "https://www.mediafire.com/file/etmax0g1z35vlw0/NullSave+.apk/file"
 }
