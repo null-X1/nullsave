@@ -1,4 +1,5 @@
 {
+  "versionCode": "2",
   "versionName": "4.2",
   "changeLog": "• مشغل صوت في الخلفية مع إشعار تحكم\n• ملفات بتتحفظ في NullSave/videos · sounds · images\n• إصلاح مشاركة TikTok (bottom sheet بدون مغادرة التطبيق)\n• إصلاح أيقونات الـ Dark Mode في شريط التنقل\n• إصلاح بطاقات الإعدادات\n• تحقق تلقائي من صحة الرابط قبل التحميل",
   "updateUrl": "https://www.mediafire.com/file/etmax0g1z35vlw0/NullSave+.apk/file"
